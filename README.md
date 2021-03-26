@@ -10,7 +10,7 @@
 
 If you find this work useful, please consider citing it.
 ```
-@inproceedings{shao2018seaships,
+@inproceedings{wang2021MIP,
 	title={Unsupervised Remoting Sensing Super-Resolution Via Migration Image Prior},
 	author={Jiaming Wang, Zhenfeng Shao, Tao Lu, Xiao Huang, Ruiqian Zhang, and Yu Wang},
 	booktitle={IEEE International Conference on Multimedia and Expo},
